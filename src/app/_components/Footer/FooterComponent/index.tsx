@@ -64,7 +64,7 @@ const FooterComponent = ({ footer }: { footer: Footer }) => {
                     alt={item.link.label}
                     width={24}
                     height={24}
-                    className={classes.socialIcon}                  />
+                    className={classes.socialIcon} />
 
                 </Button>
               })}
